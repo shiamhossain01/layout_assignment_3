@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 50px;
+    background-color: blueviolet;
+    text-align: center;
+    color: white;
+    border-bottom: .5vh solid white;
+}
+
+.about{
+    height: 50px;
+    background-color: rgb(46, 101, 152);
+    text-align: center;
+    color: white;
+    border-bottom: .5vh solid white;
+
+}
+.service{
+    height: 500px;
+    display: flex;
+    border-bottom: .5vh solid white;
+
+}
+.left{
+    width: 50%;
+    background-color: rgb(27, 117, 181);
+    text-align: center;
+    color: white;
+    border-right: .5vh solid white;
+
+}
+
+.top{
+    height: 50%;
+    background-color: rgb(186, 70, 140);
+    text-align: center;
+    color: white;
+    border-bottom: .5vh solid white;
+
+}
+.buttom{
+    height: 49%;
+    background-color: rgb(220, 65, 235);
+    text-align: center;
+    color: white;
+}
+
+.right{
+    width: 50%;
+    background-color: rgb(87, 61, 163);
+    text-align: center;
+    color: white;
+
+}
+footer{
+    height: 50px;
+    background-color: rgb(52, 52, 29);
+    text-align: center;
+    color: white;
+
+}
